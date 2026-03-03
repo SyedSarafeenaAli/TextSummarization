@@ -18,16 +18,6 @@ T5 (TEXT-TO-TEXT TRANSFER TRANSFORMER):
 
 T5 is a sequence-to-sequence Transformer model developed by Google. It converts every NLP task into a text-to-text format.
 
-Example format:
-
-Input:
-
-summarize: <dialogue text>
-
-Output:
-
-<generated summary>
-
 T5 consists of:
 
 Encoder: Processes input dialogue
